@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C , C++ , JAVA, DBMS, **
 
-- 📫 How to reach me <a href="aryanlokesh0007@gmail.com" >Gmail</a>
+- 📫 How to reach me <a href="www.aryanlokesh0007@gmail.com" >[Gmail](https://img.sheilds.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColour=white)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
