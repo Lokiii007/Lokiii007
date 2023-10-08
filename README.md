@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">I am currently learning c, c++,JAVA, HTML.</h3>
 
-- 🌱 I’m currently learning **C , C++ , JAVA, DBMS, **
 
-- 📫 How to reach me <a href="www.aryanlokesh0007@gmail.com" >![Gmail](https://img.sheilds.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColour=white)</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+I am an aspiring software developer, learning to code and solve problems.
 <!--
-**Lokiii007/Lokiii007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Lokesh/Lokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### About Me :
+## 🔭 I’m currently working on
+    -Not Working
+    -Recently completed College project on Des-File-Encryption using C++ library.
+    
+## 🌱 I’m currently learning
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   
+
+## 🤔 I’m looking for help with
+    -C/C++ concepts
+## 💬 Ask me about
+    -C/C++.
+## 📫 How to reach me: 
+<a herf="www.aryanlokesh0007@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+## 😄 Pronouns: 
+    -He/Him
+## ⚡ Fun fact:
+    -Eggs came after chickens.
+## Github Stats
+[![Lokesh’s github stats](https://github-readme-stats.vercel.app/api?username=Lokiii007)](https://github.com/Lokiii007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokiii007&layout=compact)](https://github.com/Lokiii007)
+
+
